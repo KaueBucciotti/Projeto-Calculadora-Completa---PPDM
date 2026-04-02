@@ -2,7 +2,8 @@
 
 Uma aplicação de calculadora funcional desenvolvida para Android, focada no aprendizado de layouts modernos, manipulação de eventos e integração com ferramentas de desenvolvimento profissional.
 
-![Preview da Calculadora](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/caminho-para-imagem-se-tiver.png) 
+![Preview da Calculadora](<img width="316" height="711" alt="image" src="https://github.com/user-attachments/assets/83caeca9-2a0f-4d85-9ce0-faa7e8b553fd" />
+) 
 *(Dica: Você pode subir o print que me mandou para a pasta do projeto e colocar o link aqui)*
 
 ## 🚀 Funcionalidades
