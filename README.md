@@ -33,8 +33,7 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-
+https://github.com/KaueBucciotti/Projeto-Calculadora-Completa---PPDM
 ## Integrantes 
 
 Kaue Vasconcelos Bucciotti 
