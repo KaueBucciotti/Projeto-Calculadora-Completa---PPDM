@@ -34,3 +34,10 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos 
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+
+## Integrantes 
+
+Kaue Vasconcelos Bucciotti 
+Gabriel Rodrigues Alves
+Vinicius Martines Alcantarila
+Gustavo Robson Souza Silva
